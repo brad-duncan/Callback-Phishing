@@ -1,5 +1,3 @@
-# IOCs
+# Callback-Phishing
 
-Some IOCs and emails I've found
-
-Password for any of the zip files is: infected
+Some phishing emails I've found that use phone numbers for callcenter personnel to scam you.
