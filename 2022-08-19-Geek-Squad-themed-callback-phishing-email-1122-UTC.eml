@@ -1,0 +1,219 @@
+Return-Path: <daneva325@gmail.com>
+Delivered-To: admin@malware-traffic-analysis.net
+Authentication-Results: [recipient's mail server];
+	dkim=pass header.d=gmail.com header.s=20210112 header.b="Y/xcswA0";
+	dmarc=pass (policy=none) header.from=gmail.com;
+	spf=pass ([recipient's mail server]: domain of daneva325@gmail.com designates 209.85.222.169 as permitted sender) smtp.mailfrom=daneva325@gmail.com
+Received: from mail-qk1-f169.google.com (mail-qk1-f169.google.com [209.85.222.169])
+	(using TLSv1.3 with cipher TLS_AES_128_GCM_SHA256 (128/128 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by [recipient's mail server] for <mal@malware-traffic-analysis.net>;
+	Fri, 19 Aug 2022 16:40:23 +0000 (UTC)
+Received: by mail-qk1-f169.google.com with SMTP id a15so3629515qko.4
+        for <mal@malware-traffic-analysis.net>; Fri, 19 Aug 2022 09:40:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=date:mime-version:to:subject:from:message-id:from:to:cc;
+        bh=inKBaB51LtUHEVVwwbpfpPYYiJCAGuHOZJ5hVutKcvY=;
+        b=Y/xcswA0r+DQWJx0hPqHZuRqkw8yC/iFclYdTiFeW6GToH+FiBrN5weZCoM1TfyGLX
+         92QzQrHRx7+5E9a4FfdxekdCfKRthKALyHe58tsUwH2LDBS9jxsXlzERxwNOBbPfkMBn
+         yjo03Ee9QBxD0DvNaCeqykEXJ6TMbVQW65oi41EoP8edkgQHNO2iVPDbj1MZPQQlfQgY
+         bpJ+79RREVZKkcfcW9RXDEC2ZTuODhZ5AKeKkVpYHoWdGhYpsP9L4KN44RCYO/WgSmwo
+         Gwnxw/EUIj2ruCKFsi5FgGbUWO1f+GDdZVPmTo7g/CAwou1saQ8IxueqUiO0r98j6lal
+         DvQw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=date:mime-version:to:subject:from:message-id:x-gm-message-state
+         :from:to:cc;
+        bh=inKBaB51LtUHEVVwwbpfpPYYiJCAGuHOZJ5hVutKcvY=;
+        b=FR03cFwXloHmM+PkGGUMoyD+29/O1WXky0t5DJOa1BtD9shWkWe/Ys0rE3zYilX8TG
+         H5hfRDlFI5yLe0u+cHrBRwZsTRv7fdFDXObotUTtqSWieHcFxfgI4RiiQ/lCjURV/H2C
+         BsII7Rbyvv7kCst9NqMzqVgVgPO7pTnQos1vKOiR+XzgjgDi9wx5ASv2SCQwCmoog1r6
+         vWNjn9RYdGjHFQIY7iM6r3wnQLY+DwbVjgpIvccIi/zaOWLAblf2zZ3WsNBroqSHon+5
+         //LSU6lWxvqtS5dE/1RZE+9nB8mDpjcW/hYzCKsH/mW81BpQllyVB110thXZQQVhsD3m
+         lH1Q==
+X-Gm-Message-State: ACgBeo0z7rNpMeSbgC6UKThf0QORcJ0ipp6TKVhaLli/hHg717MlmRy2
+	C9PV2rmX9vepwaEisu1SO7rzAlDUlMMMO1Ki
+X-Google-Smtp-Source: AA6agR4E61nZktxFX68jW8a76jz5piHOXSH8zUaZZ5+NqTyu+9bHkTYBo4cezievT43EvKziZ8+MgQ==
+X-Received: by 2002:a05:620a:2947:b0:6bb:5ff8:bb77 with SMTP id n7-20020a05620a294700b006bb5ff8bb77mr5436720qkp.537.1660927222335;
+        Fri, 19 Aug 2022 09:40:22 -0700 (PDT)
+Received: from 194.124.76.3 ([194.124.76.3])
+        by smtp.gmail.com with ESMTPSA id y16-20020ac85f50000000b0031ecddf2278sm3692073qta.37.2022.08.19.09.40.20
+        for <mal@malware-traffic-analysis.net>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 19 Aug 2022 09:40:21 -0700 (PDT)
+Message-ID: <62ffbcf5.c80a0220.893eb.aef6@mx.google.com>
+From: Robyn <daneva325@gmail.com>
+X-Google-Original-From: "Robyn" <Robyn69@gmail.com>
+Subject: Plan renewed id*215942
+To: "mal" <mal@malware-traffic-analysis.net>
+Content-Type: multipart/alternative; boundary="J6wJ5q3PxrmoP3j5iIUvDwxS=_uqcepXJ5"
+MIME-Version: 1.0
+Date: Fri, 19 Aug 2022 09:40:20 -0700
+
+This is a multi-part message in MIME format
+
+--J6wJ5q3PxrmoP3j5iIUvDwxS=_uqcepXJ5
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+
+
+ Dear #  mal@malware-traffic-analysis.net
+
+Customer Order Number: YZ37VO
+
+This mail is to let you know that your yearly membership for the prior=
+ year =C3=ABxpired on (18 Aug 2022)
+
+We are renewing your membership plan for the device & internet securit=
+y shield for this year because you choose automatic payments.
+
+The payment of $ 379.78 is being processed from the updated nominated =
+payment method and it will appear on your banking statement in few hou=
+rs.
+
+This is a recurring charge which will be automatically debited on (18 =
+Aug 2023) ( Next Year) unless we get a verbal consent to deactivate th=
+e current services.
+
+In case you change your mind and cancel/void the charges or stop the a=
+uto debit payments , please contact us within 24 hours on the below me=
+ntioned number.
+
+For =C3=A1ny queries or assistance , reach out to us # +1 (888) 452 79=
+24=20
+
+
+"Thanking you"
+
+Tonya Keibler
+
+
+=C2=ABGeek Squad=C2=BB Customer Care Team
+
+
+--J6wJ5q3PxrmoP3j5iIUvDwxS=_uqcepXJ5
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<html lang=3D"en"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-=
+8">
+<meta name=3D"viewport" content=3D"initial-scale=3D1.0">
+</head>
+<body topmargin=3D"0" leftmargin=3D"0" style=3D"margin: 0px; padding: =
+3px 0px; font-family: Helvetica, Arial, sans-serif;" bgcolor=3D"#ebebe=
+b" marginheight=3D"0" marginwidth=3D"0"><font style=3D"background-colo=
+r: rgb(235, 235, 235);"><p style=3D'text-align: center; color: rgb(0, =
+0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal;=
+ font-family: "Times New Roman"; font-size: medium; font-style: normal=
+; font-weight: 400; margin-bottom: 10px !important; word-spacing: 0px;=
+ white-space: normal; orphans: 2; widows: 2; font-variant-ligatures: n=
+ormal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text=
+-decoration-thickness: initial; text-decoration-style: initial; text-d=
+ecoration-color: initial;'><strong style=3D"font-weight: 700;"><br cla=
+ss=3D"Apple-interchange-newline">&nbsp;Dear</strong><span>&nbsp;</span=
+># &nbsp;mal@malware-traffic-analysis.net</p><p style=3D'text-align: c=
+enter; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; le=
+tter-spacing: normal; font-family: "Times New Roman"; font-size: mediu=
+m; font-style: normal; font-weight: 400; margin-bottom: 10px !importan=
+t; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; font=
+-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-st=
+roke-width: 0px; text-decoration-thickness: initial; text-decoration-s=
+tyle: initial; text-decoration-color: initial;'><strong style=3D"font-=
+weight: 700;"><u>Customer Order Number</u></strong>: W15457</p><p styl=
+e=3D'text-align: center; color: rgb(0, 0, 0); text-transform: none; te=
+xt-indent: 0px; letter-spacing: normal; font-family: "Times New Roman"=
+; font-size: medium; font-style: normal; font-weight: 400; margin-bott=
+om: 10px !important; word-spacing: 0px; white-space: normal; orphans: =
+2; widows: 2; font-variant-ligatures: normal; font-variant-caps: norma=
+l; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial;=
+ text-decoration-style: initial; text-decoration-color: initial;'>This=
+ mail is to let you know that your yearly membership for the prior yea=
+r =C3=ABxpired on<span>&nbsp;</span><strong style=3D"font-weight: 700;=
+"><u>(18 Aug 2022)</u></strong></p><p style=3D'text-align: center; col=
+or: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spaci=
+ng: normal; font-family: "Times New Roman"; font-size: medium; font-st=
+yle: normal; font-weight: 400; margin-bottom: 10px !important; word-sp=
+acing: 0px; white-space: normal; orphans: 2; widows: 2; font-variant-l=
+igatures: normal; font-variant-caps: normal; -webkit-text-stroke-width=
+: 0px; text-decoration-thickness: initial; text-decoration-style: init=
+ial; text-decoration-color: initial;'>We are renewing your membership =
+plan for the device &amp; internet security shield for this year becau=
+se you choose automatic payments.</p><p style=3D'text-align: center; c=
+olor: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spa=
+cing: normal; font-family: "Times New Roman"; font-size: medium; font-=
+style: normal; font-weight: 400; margin-bottom: 10px !important; word-=
+spacing: 0px; white-space: normal; orphans: 2; widows: 2; font-variant=
+-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-wid=
+th: 0px; text-decoration-thickness: initial; text-decoration-style: in=
+itial; text-decoration-color: initial;'>The payment of<span style=3D"b=
+ackground-color: rgb(250, 197, 28);">&nbsp;</span><strong style=3D"fon=
+t-weight: 700;"><u><span style=3D"color: rgb(184, 49, 47); background-=
+color: rgb(250, 197, 28);">$ 379.78</span></u></strong><span style=3D"=
+color: rgb(184, 49, 47);">&nbsp;</span>is being processed from the upd=
+ated nominated payment method and it will appear on your banking state=
+ment in few hours.</p><p style=3D'text-align: center; color: rgb(0, 0,=
+ 0); text-transform: none; text-indent: 0px; letter-spacing: normal; f=
+ont-family: "Times New Roman"; font-size: medium; font-style: normal; =
+font-weight: 400; margin-bottom: 10px !important; word-spacing: 0px; w=
+hite-space: normal; orphans: 2; widows: 2; font-variant-ligatures: nor=
+mal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-d=
+ecoration-thickness: initial; text-decoration-style: initial; text-dec=
+oration-color: initial;'>This is a recurring charge which will be auto=
+matically debited on<span>&nbsp;</span><strong style=3D"font-weight: 7=
+00;"><u><span style=3D"background-color: rgb(250, 197, 28);">(18 Aug 2=
+023)</span></u></strong><span>&nbsp;</span>( Next Year) unless we get =
+a verbal consent to deactivate the current services.</p><p style=3D'te=
+xt-align: center; color: rgb(0, 0, 0); text-transform: none; text-inde=
+nt: 0px; letter-spacing: normal; font-family: "Times New Roman"; font-=
+size: medium; font-style: normal; font-weight: 400; margin-bottom: 10p=
+x !important; word-spacing: 0px; white-space: normal; orphans: 2; wido=
+ws: 2; font-variant-ligatures: normal; font-variant-caps: normal; -web=
+kit-text-stroke-width: 0px; text-decoration-thickness: initial; text-d=
+ecoration-style: initial; text-decoration-color: initial;'>In case you=
+ change your mind and cancel/void the charges or stop the auto debit p=
+ayments , please contact us within 24 hours on the below mentioned num=
+ber.</p><p style=3D'text-align: center; color: rgb(0, 0, 0); text-tran=
+sform: none; text-indent: 0px; letter-spacing: normal; font-family: "T=
+imes New Roman"; font-size: medium; font-style: normal; font-weight: 4=
+00; margin-bottom: 10px !important; word-spacing: 0px; white-space: no=
+rmal; orphans: 2; widows: 2; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thic=
+kness: initial; text-decoration-style: initial; text-decoration-color:=
+ initial;'>For =C3=A1ny queries or assistance , reach out to us #<span=
+>&nbsp;</span><strong style=3D"font-weight: 700;"><u><span style=3D"co=
+lor: rgb(184, 49, 47);">+1 (888) 452 7924</span></u></strong>&nbsp;</p=
+><p style=3D'text-align: center; color: rgb(0, 0, 0); text-transform: =
+none; text-indent: 0px; letter-spacing: normal; font-family: "Times Ne=
+w Roman"; font-size: medium; font-style: normal; font-weight: 400; mar=
+gin-bottom: 10px !important; word-spacing: 0px; white-space: normal; o=
+rphans: 2; widows: 2; font-variant-ligatures: normal; font-variant-cap=
+s: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initia=
+l;'><br>"Thanking you"</p><p style=3D'text-align: center; color: rgb(0=
+, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: norma=
+l; font-family: "Times New Roman"; font-size: medium; font-style: norm=
+al; font-weight: 400; margin-bottom: 10px !important; word-spacing: 0p=
+x; white-space: normal; orphans: 2; widows: 2; font-variant-ligatures:=
+ normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; te=
+xt-decoration-thickness: initial; text-decoration-style: initial; text=
+-decoration-color: initial;'><strong style=3D"font-weight: 700;"><span=
+ style=3D"color: rgb(41, 105, 176);">Tonya Keibler</span></strong></p>=
+<p style=3D'text-align: center; color: rgb(0, 0, 0); text-transform: n=
+one; text-indent: 0px; letter-spacing: normal; font-family: "Times New=
+ Roman"; font-size: medium; font-style: normal; font-weight: 400; marg=
+in-bottom: 10px !important; word-spacing: 0px; white-space: normal; or=
+phans: 2; widows: 2; font-variant-ligatures: normal; font-variant-caps=
+: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: i=
+nitial; text-decoration-style: initial; text-decoration-color: initial=
+;'><br>=C2=ABGeek Squad=C2=BB Customer Care Team</p></font><p><br></p>=
+</body></html>
+
+
+--J6wJ5q3PxrmoP3j5iIUvDwxS=_uqcepXJ5--
+
